@@ -94,5 +94,5 @@ Use KA and KL to select components.
 ## Citation
 
 Please cite:
-- Qian et al., 2026 (PLOS Biology)
+- Qian et al., 2026 (PLOS Biology) DOI 10.5281/zenodo.19316674
 - Medaglia et al., 2018
